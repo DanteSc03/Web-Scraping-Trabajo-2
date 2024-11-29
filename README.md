@@ -1,8 +1,8 @@
-# Quotes Web Scraper and Analyzer
+# 🌐 Quotes Web Scraper and Analyzer 🌐
 
-This project is a Python-based web scraper and data analyzer that extracts quotes, authors, and associated tags from the website [Quotes to Scrape](http://quotes.toscrape.com). It processes the data to create structured CSV files and includes functionalities for filtering and analyzing quotes by tags.
+> This project is a Python-based web scraper and data analyzer that extracts quotes, authors, and associated tags from the website [Quotes to Scrape](http://quotes.toscrape.com). It processes the data to create structured CSV files and includes functionalities for filtering and analyzing quotes by tags.
 
-## Features
+## Features🤙
 
 - Scrapes quotes, authors, and tags from multiple pages.
 - Cleans and processes the data for further analysis.
